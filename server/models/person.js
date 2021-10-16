@@ -1,0 +1,55 @@
+import mongoose from "mongoose";
+const Schema = mongoose.Schema;
+
+const personSchema = new Schema({
+    rating: {type: Number, required: [true, 'Rating [1-10] Obligatorio']},
+    img_PlanoMedioCortoFrontal: String,
+    img_PlanoMedioCortoPerfilD: String,
+    img_PlanoMedioCortoPerfilI: String,
+    img_PlanoEnteroFrontal: String,
+    img_PlanoEnteroPerfilD: String,
+    img_PlanoEnteroPerfilI: String,
+    img_PlanoDetalleManos: String,
+    img_PlanoDetallePies: String,
+    vid_Presentacion: String,
+    first_name: {type: String, required: [true, 'Nombre Obligatorio']},
+    middle_name: String,
+    last_name: {type: String, required: [true, 'Apellido Obligatorio']},
+    second_surname: String,
+    dni_type: {type: String, required: [true, 'Tipo de Documento Obligatorio']},
+    dni_number: {type: Number, required: [true, 'Número de Documento Obligatorio']},
+    dni_origin: {type: String, required: [true, 'Ciudad de Expedición Obligatorio']},
+    mobile01: {type: Number, required: [true, 'Celular Obligatorio']},
+    mobile02: Number,
+    mobile03: Number,
+    mobile04: Number,
+    phone01: Number,
+    phone02: Number,
+    phone03: Number,
+    phone04: Number,
+    email01: {type: String, required: [true, 'Correo Electrónico Obligatorio']},
+    email02: String,
+    email03: String,
+    email04: String,
+    city: {type: String, required: [true, 'Ciudad de Residencia Obligatorio']},
+    birth_date: {type: Date, required: [true, 'Fecha de Nacimiento Obligatorio']},
+    birth_city: {type: String, required: [true, 'Ciudad de Nacimiento Obligatorio']}, 
+    today: {type: Date, default:Date.now},
+    age: {type: Number},
+    gender: {type: Boolean, required: [true, 'Genero Obligatorio']},
+    gender_id: String,
+    eye_color: {type: String, required: [true, 'Color de Ojos Obligatorio']},
+    hair_color: {type: String, required: [true, 'Color Pelo Obligatorio']},
+    hair_style: {type: String, required: [true, 'Tipo de Pelo Obligatorio']},
+    skin_color: {type: String, required: [true, 'Color Piel Obligatorio']},
+    enticity: {type: String, required: [true, 'Raza Obligatorio']},
+    height: {type: Number, required: [true, 'Estatura [cm] Obligatorio']},
+    weight: {type: Number, required: [true, 'Peso [kg] Obligatorio']},
+    shirt_size: String,
+    trousers_size: String,
+    shoe_size: String
+});
+
+// Convertir a Modelo
+const Persona = mongoose.model('Persona', personSchema);
+export default Persona;

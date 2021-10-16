@@ -1,0 +1,54 @@
+<template>
+  <div class="tnc">
+    <h3>Terminos y Condiciones de Uso</h3>
+    <hr />
+    <p>Si decide visitar nuestro Site, también tiene que cumplir los términos y condiciones comprendidos a continuación, como así también cualquier otra ley o reglamento aplicable al Site, a Internet o a la World Wide Web:</p>        
+    <div class="container-fluid">
+      <div class="row">
+        <h4>Sobre el contenido...</h4>
+        <ol>
+            <li>Se ha diseñado este Site para su información, educación y comunicación. Podrá examinarlo libremente. Podrá también transferir a su computadora cualquier archivo aquí contenido para uso personal y no comercial, siempre respetando los derechos de propiedad intelectual que la Compañía tiene sobre dichos archivos.</li>
+            <li>No se puede distribuir, modificar, transmitir, reutilizar, reenviar o utilizar el contenido del Site con fines comerciales o públicos, incluyendo el texto, las imágenes, audio y/o video allí contenidos, sin la previa y expresa autorización de la Compañía.</li>
+            <li>El acceso y uso del Site están también sujetos al cumplimiento de los siguientes términos y condiciones y a toda otra legislación aplicable. Al acceder y examinar el Site, estará aceptando, sin limitación y/o excepción alguna, estos términos y condiciones y reconociendo que cualquier otro acuerdo anterior que para el uso del Site pudiera tener con la Compañía queda anulado y sin fuerza legal alguna.</li>
+            <li>Cada cosa que vea o lea en el Site está protegida como derecho de propiedad intelectual -salvo que esté expresamente establecido lo contrario- por lo que no podrá utilizarla en forma diferente a lo dicho en estos términos y condiciones o en el resto del Site, sin el previo y expreso permiso de la Compañía. La Compañía no garantiza ni promete de ningún modo que el uso de la información exhibida en el Site no violará derechos de terceras partes que no sean controladas o controlantes de la Compañía.</li>
+            <li>Aunque la Compañía ha efectuado y efectuará esfuerzos razonables para incluir información precisa y actualizada en el Site, de ningún modo garantiza o promete que dicha información es absolutamente veraz. La Compañía no será responsable por ningún error u omisión contenidos en el Site.</li>
+            <li>El uso o examen del Site que pudiera realizar es a su exclusivo riesgo. Ni la Compañía ni sus controladas o controlantes ni cualquier otra parte involucrada en la creación, producción o desarrollo del Site será responsable por ninguna clase de daño -directo o indirecto o de cualquier otra clase- que hubieren sido ocasionados como consecuencia del acceso, uso o examen del Site. Sin perjuicio de lo expresado anteriormente, todo lo incluido en el Site, está disponible "en la condición en la que se encuentra" sin garantías de ninguna especie expresas o implícitas.</li>
+            <li>La Compañía tampoco será responsable por ningún daño causado a su computadora o cualquier otro equipamiento o por cualquier virus que pudiera infectarlos como consecuencia del acceso, uso o examen del Site o como consecuencia de la transferencia que pudiera realizar a su computadora de cualquier archivo, dato, texto, imagen, video y/o audio contenidos en el Site.</li>
+            <li>Cualquier comunicación o documento que transmita al Site por correo electrónico o por cualquier otro medio, incluyendo datos, preguntas, comentarios, sugerencias o similares, serán considerados de carácter público y no confidencial. Cualquier cosa que transmita o envíe se convertirá en propiedad de la Compañía o de sus controladas o controlantes y podrá ser utilizada con cualquier finalidad, incluyendo entre otros, su reproducción, difusión, transmisión, publicación y/o envío. Mas aún, la Compañía podrá utilizar cualquier idea, concepto, conocimiento o técnica contenida en cualquier comunicación que envíe al Site con cualquier finalidad incluyendo, entre otros, el desarrollo, producción y marketing de productos.</li>
+            <li>Cada vez que utilice el Site, podrá estar dando y/o la Compañía estar obteniendo información acerca de su persona y/o del uso que ha dado al Site. La Compañía podrá utilizar esta información para cualquier propósito que estime apropiado incluyendo, entre otros, páginas "hechas de medida" o cualquier otra actividad de marketing.</li>
+            <li>Las imágenes de gente y/o lugares exhibidas en el Site, son propiedad de la Compañía o utilizadas por ésta con la autorización de sus dueños. El uso de dichas imágenes está prohibido, excepto que el mismo hubiera sido expresamente permitido en estos términos y condiciones o en alguna otra parte del Site. Cualquier uso no autorizado de esas imágenes puede resultar violatorio de las leyes de propiedad intelectual, marcas y/o comunicaciones.</li>
+            <li>Nada de lo establecido y/o contenido en el Site podrá ser interpretado como equivalente al otorgamiento, expreso o implícito, de una licencia o cualquier otro derecho de uso sobre alguna de las Marcas exhibidas en el Site sin el expreso consentimiento de La Compañía. El uso de las Marcas exhibidas en el Site, está estrictamente prohibido excepto que dicho uso se efectúe conforme lo establecido en estos términos y condiciones. La Compañía hará respetar sus derechos de propiedad intelectual con el máximo rigor permitido por la ley, incluyendo el inicio de acciones penales.</li>
+            <li>La Compañía no ha revisado ninguno de los sitios vinculados al Site por lo que no será responsable por el contenido de "páginas" contenidas fuera del Site o por cualquier otro sitio vinculado al Site. Su vinculación al Site, páginas fuera del Site o cualquier otro sitio es a su exclusivo riesgo y sin la intervención de la Compañía.</li>
+            <li>Aunque la Compañía podrá monitorear o revisar las discusiones, charlas (chats), envíos, transmisiones, boletines y similares que se efectúen en el Site, queda claramente entendido que no asume ninguna obligación de hacerlo y, por lo tanto, no será responsable por el contenido de dichos mensajes ni por ningún error, difamación, libelo, calumnia, omisión, falsedad, obscenidad, pornografía, blasfemia, irreverencia, peligro o inexactitud, allí contenidos.</li>
+            <li>Está prohibido el envío o transmisión de material ilegal, amenazador, difamatorio, obsceno, escandaloso, provocativo, pornográfico o profano y/o de cualquier otra clase de material que pueda constituir o instigar la comisión de conductas que pudieran ser consideradas delito, civil o penal, o que pudieran violar cualquier ley. La Compañía cooperará con cualquier autoridad que le solicite su colaboración para identificar a cualquiera que hubiere enviado información o material de dichas características.</li>
+            <li>La Compañía podrá en cualquier momento revisar estos términos y condiciones actualizando este Site. Estás obligado a cumplir con cualquiera de esas modificaciones y, por lo tanto, deberás visitar periódicamente el Site para revisar los términos y condiciones actualizados que deberás cumplir.</li>
+            <li>La Compañía respeta la privacidad de toda persona que visita nuestros sitios en la Web. Esta Política de Privacidad indica la información que La Compañía puede recopilar y el uso que puede dar a esa información.</li>
+        </ol>
+
+        <h4>Sobre los datos personales...</h4>
+        <p>La Compañía no recopilará ninguna información sobre usted que pueda identificarlo personalmente (como, por ejemplo, su nombre, dirección, número de teléfono o dirección de correo electrónico (los "datos personales") a través de nuestros sitios en la Web, a menos que usted nos la brinde en forma voluntaria. Si usted no desea que recopilemos sus datos personales, por favor absténgase de dárnoslos.
+        En caso de que usted nos brinde datos personales, podemos utilizar esa información conforme se indica a continuación, salvo indicación en contrario: podemos guardar y procesar esa información para comprender mejor sus necesidades y saber cómo mejorar nuestros productos y servicios; nosotros (o una empresa de entrega de pedidos u otro tercero actuando en nuestro nombre en relación con una promoción) podemos utilizar esa información para comunicarnos con usted, y/o podemos suministrar a terceros información global, pero no individual, sobre los visitantes o usuarios de nuestros sitios. Actualmente no vendemos, alquilamos ni comercializamos a terceros datos personales sobre usted, ni tenemos intenciones de hacerlo.</p>
+
+        <h4>Sobre los niños y adolescentes...</h4>
+        <p>La Compañía no tiene intenciones de recopilar datos personales de menores de dieciocho años. Cuando corresponda, la Compañía le indicará específicamente a los niños que no brinden esa información en nuestros sitios en la Web y/o tomará medidas razonables para obtener el consentimiento de los padres a la entrega de esa información.Los padres deben saber que esta Política de Privacidad de La Compañía regirá nuestra utilización de datos personales, pero aquella información que los niños u otras personas brinden en forma voluntaria en sesiones de conversación electrónica, intercambio de mensajes electrónicos, carteleras electrónicas de noticias y anuncios, puede ser utilizada por terceros para generar mensajes no solicitados. La Compañía solicita a todos los padres que instruyan a sus hijos acerca del uso seguro y responsable de sus datos personales al utilizar Internet.</p>
+
+        <h4>Sobre otra información que puede ser recopilada en forma automática...</h4>
+        <p>En algunos casos, podemos recopilar información técnica en forma automática (es decir, sin que medie el registro voluntario). Esta información incluye, por ejemplo, el tipo de explorador para Internet que usted utiliza, el sistema operativo de su computadora y el nombre de dominio del sitio de la Web desde el cual se vinculó con nuestro sitio.</p>
+
+        <h4>Sobre la información colocada automáticamente en su computadora - Cookies...</h4>
+        <p>Cuando usted ingresa en uno de nuestros sitios de la Web, podemos almacenar alguna información en su computadora, bajo la forma de una "Cookie" o archivo similar, que puede sernos útil de varias formas. Por ejemplo, las Cookies nos permiten diseñar un sitio Web de forma tal de poder satisfacer en mayor medida sus intereses y preferencias. Con la mayoría de los exploradores para Internet, usted puede borrar las Cookies del disco rígido de su computadora, bloquear todas las Cookies o recibir un mensaje de alerta antes de que se almacene una Cookie. Remitirse a las instrucciones de su explorador o a la pantalla de ayuda para conocer más sobre estas funciones.</p>
+
+      </div>
+    </div>
+  </div>
+</template>
+
+<style>
+p {
+  text-align: justify;
+  color: black;
+  font-size: 18px;
+  opacity: .6;
+}
+</style>
+
